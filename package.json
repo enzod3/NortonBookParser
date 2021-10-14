@@ -1,0 +1,19 @@
+{
+  "name": "nortonbookparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzod3/NortonBookParser.git"
+  },
+  "author": "enzdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzod3/NortonBookParser/issues"
+  },
+  "homepage": "https://github.com/enzod3/NortonBookParser#readme"
+}
